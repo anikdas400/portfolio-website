@@ -90,3 +90,56 @@ ul li a{
     border-radius: 130px 20px 0 0;
    
 }
+/* about-section */
+main{
+    max-width: 1140px;
+    margin: 0 auto;
+}
+.about-section{
+    margin-top: 130px;
+    
+   padding: 20px 130px;
+   border-radius: 10px;
+   background: #FFF8F3;
+}
+.about-section h2{
+    color: #181818;
+text-align: center;
+
+font-size: 35px;
+
+font-weight: 700;
+
+}
+.about-section p{
+    color: #757575;
+text-align: center;
+
+font-size: 18px;
+
+font-weight: 400;
+
+}
+.about-info-container{
+    display: flex;
+    gap: 50px;
+    justify-content: center;
+}
+.about-info{
+
+}
+.about-info p{
+    color: #757575;
+    text-align: center;
+    font-size: 20px;
+    font-weight: 400;
+    margin-bottom: -10px;
+
+}
+.about-info h2{
+    color: #161414;
+    text-align: center;
+    font-size: 20px;
+    font-weight: 600;
+    
+}
