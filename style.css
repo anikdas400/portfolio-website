@@ -6,9 +6,10 @@ span{
     color: #FD6E0A;
 }
 .header{
-    background: #FFF8F3
+    background: #FFF8F3;
+    
 }
-h3{
+.title{
     color: #181818;
     font-size: 45px;
     font-weight: 800;
@@ -44,4 +45,48 @@ ul li a{
     border: none;
     font-weight: 700;
     
+}
+/* banner-section */
+.banner-section{
+    display: flex;
+    gap: 50px;
+    justify-content: space-between;
+    align-items: center;
+    background-image: url("./img/header_bg.png");
+    background-position: bottom right;
+    background-repeat: no-repeat;
+    padding: 30px 30px 0px 150px;
+
+}
+.text-section{
+    width: 50%;
+}
+.text-section h3{
+    color: #474747;
+    
+    font-size: 45px;
+    
+    font-weight: 600;
+
+}
+.text-section h2{
+    color: #181818;
+    margin-top: -40px;
+
+    font-size: 85px;
+
+    font-weight: 700;
+
+}
+.text-section p{
+    margin-top: -60px;
+}
+.image-section{
+    margin-bottom: -5px;
+
+}
+.photo{
+    width: 500px;
+    border-radius: 130px 20px 0 0;
+   
 }
