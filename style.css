@@ -143,3 +143,28 @@ font-weight: 400;
     font-weight: 600;
     
 }
+/* blogs-section */
+.blogs-section{
+    display: flex;
+    margin-top: 40px;
+}
+.blog-item{
+    padding: 30px;
+}
+.blog-item h2{
+    color: #181818;
+
+
+font-size: 20px;
+
+font-weight: 700;
+
+}
+.blog-item p{
+    color: #757575;
+
+font-size: 16px;
+
+font-weight: 400;
+
+}
